@@ -1,0 +1,16 @@
+Dalam bootstrap ada HTML, CSS, JavaScript.
+bootstrap.min.css
+bootstrap.min.js
+
+---
+Membuat NavBar
+navbar-light (warna abu2 cerah)
+bg-warning (background kuning)
+bg-primary (biru)
+bg-success (hijau)
+bg-danger (merah)
+fixed-top (position fixed)
+using container inside nav, and you can get the padding from the left
+ml-auto (put in your ul tag, or using navbar-toggler-right)
+---
+
