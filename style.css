@@ -1,4 +1,5 @@
-.jumbotron {
+/* AWAL JUMBOTRON */
+/* .jumbotron {
     background-image: url(slider1.jpg);
     background-size: cover;
     height: 780px;
@@ -29,4 +30,24 @@
     padding-right: 25px;
     padding-left: 25px;
     margin-top: 40px; 
+} */
+/* AKHIR JUMBOTRON */
+
+/* AWAL SLIDER */
+.carousel-item {
+    height: 650px;
+    background-size: cover;
 }
+
+.carousel-item .display-4 {
+    margin-top: -400px;
+}
+
+.fa-youtube {
+    color: red;
+}
+
+/* .fa-facebook {
+    color: blue;
+} */
+

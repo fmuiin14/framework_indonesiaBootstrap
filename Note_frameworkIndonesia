@@ -13,4 +13,23 @@ fixed-top (position fixed)
 using container inside nav, and you can get the padding from the left
 ml-auto (put in your ul tag, or using navbar-toggler-right)
 ---
-
+Membuat Jumbotron
+Adalah sebuah komponen website untuk menampilkan informasi utama/ awal dari sebuah website
+font-weight-bold (biar text nya tebel)
+text-white (biar textnya putih)
+bg-transparant (pada navbar, biar jumbotronnya bisa full)
+---
+Membuat Slider
+carousel di bootstrap
+---
+#5 Font Awesome
+Kumpulan icon/simbol untuk web design
+css/all-min.css (font awesome secara offline)
+---
+#6 GRID Pada Bootstrap
+Untuk tata letak pada sebuah website. 
+Grid bootstrap, bisa buat 13 kolom.
+grid, col-sm-1 (jadi 12)
+container-fluid (biar containernya full kanan kiri)
+---
+#7
